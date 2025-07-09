@@ -26,4 +26,4 @@ console.log(x); // 2
 
 // **= (Exponentiation Assignment)
 x **= 3; // x = x ** 3 (2^3)
-console.log(x); // 8
+console.log(x); // 8  
